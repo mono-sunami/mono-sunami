@@ -1,7 +1,7 @@
-Hi, There!!
+# Hi, There!!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pug,sass,react,next,vue,nuxt,svelte,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,pug,sass,react,next,vue,nuxt,svelte,git,github)](https://skillicons.dev)
 
 
 <!---
